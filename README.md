@@ -1,5 +1,5 @@
-# Pyinstaller-GUI-tk
-Pyinstaller with GUI based on thinker
+# GUI for Pyinstaller based on TKinker
+GUI for Pyinstaller based on TKinker
 
 ## Что это?
 Максимально легкий способ использовать PyInstaller без использования командной строки.
