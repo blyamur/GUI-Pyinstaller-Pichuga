@@ -16,4 +16,12 @@ Pyinstaller with GUI based on thinker
 [Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme), попробовал дать этой реализации второе дыхание. Главной задачей стояло создать удобный и простой инструмент, который позволит в пару кликов создавать приложения, используя возможности PyInstaller и обладая при этом, самым минимум необходимых навыков, используя инструмент который прост, понятен и выглядит узнаваемо и современно.
 
 
+[Python script: PyInstallerGUI](https://github.com/vsantiago113/PyInstallerGUI) - [vsantiago113](https://github.com/vsantiago113/)
+
+[TKinker theme: Sun-Valley](https://github.com/rdbende/Sun-Valley-ttk-theme) - [rdbende](https://github.com/rdbende/)
+
+[TKinker theme: Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme) - [blyamur](https://github.com/blyamur/)
+
+[TKinker theme: Spring-Sunset](https://github.com/blyamur/Spring-Sunset-ttk-theme) - [blyamur](https://github.com/blyamur/)
+
 
