@@ -1,5 +1,5 @@
-# GUI for Pyinstaller based on TKinker
-GUI for Pyinstaller based on TKinker
+# GUI for Pyinstaller based on Tkinker
+GUI for Pyinstaller based on Tkinker
 
 ## Что это?
 Максимально легкий способ использовать PyInstaller без использования командной строки.
@@ -18,10 +18,10 @@ GUI for Pyinstaller based on TKinker
 
 [Python script: PyInstallerGUI](https://github.com/vsantiago113/PyInstallerGUI) - [vsantiago113](https://github.com/vsantiago113/)
 
-[TKinker theme: Sun-Valley](https://github.com/rdbende/Sun-Valley-ttk-theme) - [rdbende](https://github.com/rdbende/)
+[Tkinker theme: Sun-Valley](https://github.com/rdbende/Sun-Valley-ttk-theme) - [rdbende](https://github.com/rdbende/)
 
-[TKinker theme: Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme) - [blyamur](https://github.com/blyamur/)
+[Tkinker theme: Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme) - [blyamur](https://github.com/blyamur/)
 
-[TKinker theme: Spring-Sunset](https://github.com/blyamur/Spring-Sunset-ttk-theme) - [blyamur](https://github.com/blyamur/)
+[Tkinker theme: Spring-Sunset](https://github.com/blyamur/Spring-Sunset-ttk-theme) - [blyamur](https://github.com/blyamur/)
 
 
