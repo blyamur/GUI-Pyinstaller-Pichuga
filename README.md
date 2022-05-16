@@ -92,5 +92,5 @@ Not for commercial use.
 *Thanks for reading :heart_eyes_cat:*
 > Спасибо за чтение!
 
-~Mons
-© 2022
+  
+© 2022 Made with ❤ by Mons
