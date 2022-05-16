@@ -2,7 +2,7 @@
 #### Version 1.2 (current)
 
 ## Что это?
-Максимально легкий способ использовать PyInstaller без использования командной строки.
+Максимально легкий способ использовать PyInstaller с минимальным использованием командной строки.
 
 ![Light screenshot](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/app_screen.png)
 
