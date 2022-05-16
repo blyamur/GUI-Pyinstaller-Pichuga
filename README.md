@@ -2,7 +2,7 @@
 #### Version 1.2 (current)
 
 ### Что это? | What is it?
-Максимально легкий способ использовать PyInstaller с минимальным использованием командной строки. Простой инструмент, при помощи которого можно сделать ваш скрипт в формте .py в исполняемый файл .exe
+Максимально легкий способ использовать PyInstaller с минимальным использованием командной строки. Простой инструмент, при помощи которого можно сделать ваш скрипт в формате .py в исполняемый файл .exe
 
 > The easiest way to use PyInstaller with minimal command line usage. A simple tool to turn your .py script into an .exe executable
 
@@ -99,6 +99,7 @@
 [Tkinker theme: Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme) - [blyamur](https://github.com/blyamur/)
 
 [Tkinker theme: Spring-Sunset](https://github.com/blyamur/Spring-Sunset-ttk-theme) - [blyamur](https://github.com/blyamur/)
+
 
 
 ### Copyrights and Licenses
