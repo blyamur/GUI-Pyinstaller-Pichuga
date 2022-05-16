@@ -18,35 +18,52 @@
 ### Как начать использовать? | How to start using?
 1. Скачайте архив с последней версией и распакуйте в любое удобное для вас место; 
 
-> 1. Download the archive with the latest version and extract it to any place convenient for you;
-
 2. Установите необходимые компоненты и зависимости если такая необходимость имеется;
-
-> 2. Install the necessary components and dependencies if necessary;
-
 
 3. Запустите *Pichuga-GUI-Pyinstaller.py* и выбрав в окне нужные вам опции, создайте свою программу.
 
+---
+> 1. Download the archive with the latest version and extract it to any place convenient for you;
+> 
+> 2. Install the necessary components and dependencies if necessary;
+> 
 > 3. Run Pichuga-GUI-Pyinstaller.py and select the options you need in the window, create your program.
 
 
 #### Для работы вам понадобится только содержимое папки *GUI-Pyinstaller-Pichuga*
 
-> To work, you only need the contents of the *GUI-Pyinstaller-Pichuga* folder
+*  **Pichuga-GUI-Pyinstaller.py** - версия на русском языке
 
-*  **Pichuga-GUI-Pyinstaller.py** - версия на русском языке | Russian version
+*  **Pichuga-GUI-Pyinstaller-en.py** - версия на английском языке
 
-*  **Pichuga-GUI-Pyinstaller-en.py** - версия на английском   языке English version 
+*  **theme** - Папка с темой оформления (стили, иконки и пр.)
 
-*  **theme** Папка с темой оформления (стили, иконки и пр.) | folder with the theme (styles, icons, etc.)
+*  **russian-spring.tcl** - Файл темы оформления
 
-*  **russian-spring.tcl** - Файл темы оформления | Theme File
+*  **icon.ico** - иконка скрипта
 
-*  **icon.ico** - иконка скрипта  | script icon
+*  **requirements_windows.txt** - Зависимости
 
-*  **requirements_windows.txt** - Зависимости | requirements
+* Папки **build**, **dist** и файл **.spec** создаются автоматически
 
-* Папки **build**, **dist** и файл **.spec** создаются автоматически | The *build*, *dist* folders and *.spec* file are automatically created
+---
+
+> #### To work, you only need the contents of the *GUI-Pyinstaller-Pichuga* folder
+> 
+> *  **Pichuga-GUI-Pyinstaller.py** - Russian version
+> 
+> *  **Pichuga-GUI-Pyinstaller-en.py** - English version 
+> 
+> *  **theme** - folder with the theme (styles, icons, etc.)
+> 
+> *  **russian-spring.tcl** - Theme File
+> 
+> *  **icon.ico** - script icon
+> 
+> *  **requirements_windows.txt** - requirements
+> 
+> * The *build*, *dist* folders and *.spec* file are automatically created
+
 
 После распаковки содержимого архива в любую удобную вам папку, для начала достаточно запустить файл *Pichuga-GUI-Pyinstaller.py*, затем в открывшемся окне установить необходимые вам опции и выбрать файл скрипта, который необходимо сделать исполняемым файлом, при необходимости можно задать имя и указать путь до иконки. Далее просто жмем на конку "Начать" и ждем окончания процесса, за ходом которого, можно наблюдать в окне консоли. Готовый результат будет располагаться в папке **dist**
 
