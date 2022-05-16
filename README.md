@@ -3,8 +3,12 @@ GUI for Pyinstaller based on Tkinker
 
 
 
+
+
 ## Что это?
 Максимально легкий способ использовать PyInstaller без использования командной строки.
+
+![Light screenshot](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/app_screen.png)
 
 ## Как начать использовать?
 1. Скачайте архив с последней версией и распакуйте в любое удобное для вас место; 
