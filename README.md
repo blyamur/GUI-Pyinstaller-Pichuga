@@ -2,7 +2,7 @@
 GUI for Pyinstaller based on Tkinker
 
 
-## Version 1.2 (current)
+## Version 1.3 (current)
 
 ## Что это?
 Максимально легкий способ использовать PyInstaller без использования командной строки.
