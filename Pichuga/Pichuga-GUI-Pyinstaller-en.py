@@ -19,7 +19,7 @@ __maintainer__ = "Mons"
 __email__ = "mons@mons.ws"
 __status__ = "Production"
 
-
+#FromRussiaWithLove
 
 class App(ttk.Frame):
 	def __init__(self, parent):
