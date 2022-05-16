@@ -109,4 +109,4 @@ Not for commercial use.
 > Спасибо за чтение!
 
   
-© 2022 Made with ❤ by Blyamur
+© 2022 From Russia with ❤ 
