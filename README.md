@@ -1,5 +1,3 @@
-# GUI for Pyinstaller based on Tkinker
-
 ## Version 1.2 (current)
 
 ## Что это?
