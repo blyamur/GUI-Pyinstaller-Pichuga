@@ -1,0 +1,5 @@
+pyinstaller
+tkinter
+webbrowser
+requests
+os
