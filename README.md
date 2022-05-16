@@ -93,4 +93,4 @@ Not for commercial use.
 > Спасибо за чтение!
 
   
-© 2022 Made with ❤ by Mons
+© 2022 Made with ❤ by Blyamur
