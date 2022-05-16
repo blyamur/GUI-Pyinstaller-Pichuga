@@ -1,46 +1,61 @@
 ### GUI for Pyinstaller based on Tkinker
 #### Version 1.2 (current)
 
-### Что это?
+### Что это? | What is it?
 Максимально легкий способ использовать PyInstaller с минимальным использованием командной строки.
+
+> The easiest way to use PyInstaller with minimal command line usage.
 
 ![Light screenshot](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/app_screen.png)
 
-Данный код основан на старой, но все еще актуальной реализации от [vsantiago113](https://github.com/vsantiago113/PyInstallerGUI), которая к сожалению, уже несколько лет как не обновляется. Используя специально сделанной для этого проекта темой оформления для ttk, основанной на темах от [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme) и теме 
+Данный код основан на старой, но все еще актуальной реализации от [vsantiago113](https://github.com/vsantiago113/PyInstallerGUI), которая к сожалению, уже несколько лет как не обновляется. Однако, скрипт по прежнему работает и полезен. Используя специально сделанной для этого проекта темой оформления для ttk, основанной на темах от [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme) и теме 
 [Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme), попробовал дать этой реализации второе дыхание. Главной задачей стояло создать удобный и простой инструмент, который позволит в пару кликов создавать приложения, используя возможности PyInstaller и обладая при этом, самым минимум необходимых навыков, используя инструмент который прост, понятен и выглядит узнаваемо и современно.
 
+>  This code is based on an old but still current implementation from [vsantiago113](https://github.com/vsantiago113/PyInstallerGUI), which unfortunately has not been updated for several years. However, the script still works and is useful. Using a custom ttk theme for this project based on the themes from [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme) and the theme
+[Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme), tried to give this implementation a second wind. The main task was to create a convenient and simple tool that will allow you to create applications in a couple of clicks using the capabilities of PyInstaller and at the same time having the bare minimum of necessary skills, using a tool that is simple, understandable and looks recognizable and modern.
 
-### Как начать использовать?
+
+### Как начать использовать? | How to start using?
 1. Скачайте архив с последней версией и распакуйте в любое удобное для вас место; 
+
+> 1. Download the archive with the latest version and extract it to any place convenient for you;
 
 2. Установите необходимые компоненты и зависимости если такая необходимость имеется;
 
+> 2. Install the necessary components and dependencies if necessary;
+
+
 3. Запустите *Pichuga-GUI-Pyinstaller.py* и выбрав в окне нужные вам опции, создайте свою программу.
+
+> 3. Run Pichuga-GUI-Pyinstaller.py and select the options you need in the window, create your program.
 
 
 #### Для работы вам понадобится только содержимое папки *GUI-Pyinstaller-Pichuga*
 
-*  **Pichuga-GUI-Pyinstaller.py** - версия на русском языке
+> To work, you only need the contents of the *GUI-Pyinstaller-Pichuga* folder
 
-*  **Pichuga-GUI-Pyinstaller-en.py** - English version
+*  **Pichuga-GUI-Pyinstaller.py** - версия на русском языке | Russian version
 
-*  **theme** Папка с темой оформления (стили, иконки и пр.)
+*  **Pichuga-GUI-Pyinstaller-en.py** - версия на английском   языке English version 
 
-*  **russian-spring.tcl** - Файл темы оформления
+*  **theme** Папка с темой оформления (стили, иконки и пр.) | folder with the theme (styles, icons, etc.)
 
-*  **icon.ico** - иконка скрипта
+*  **russian-spring.tcl** - Файл темы оформления | Theme File
 
-*  **requirements_windows.txt** - Зависимости 
+*  **icon.ico** - иконка скрипта  | script icon
 
-* Папки **build**, **dist** и файл **.spec** создаются автоматически
+*  **requirements_windows.txt** - Зависимости | requirements
+
+* Папки **build**, **dist** и файл **.spec** создаются автоматически | The *build*, *dist* folders and *.spec* file are automatically created
 
 После распаковки содержимого архива в любую удобную вам папку, для начала достаточно запустить файл *Pichuga-GUI-Pyinstaller.py*, затем в открывшемся окне установить необходимые вам опции и выбрать файл скрипта, который необходимо сделать исполняемым файлом, при необходимости можно задать имя и указать путь до иконки. Далее просто жмем на конку "Начать" и ждем окончания процесса, за ходом которого, можно наблюдать в окне консоли. Готовый результат будет располагаться в папке **dist**
+
+> After unpacking the contents of the archive into any folder convenient for you, first you just need to run the Pichuga-GUI-Pyinstaller.py file, then in the window that opens, set the options you need and select the script file that you want to make an executable file, if necessary, you can specify a name and specify the path to the icon. Next, just click on the "Build" button and wait for the end of the process, the progress of which can be observed in the console window. The finished result will be located in the **dist** folder
 
 ### Page in English [translate.google.com](https://github-com.translate.goog/blyamur/GUI-Pyinstaller-Pichuga?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)
 
 
-
-### Без этого, данного проекта бы не было:
+### Без этого, данного проекта бы не было: | Without this, this project would not exist:
 
 [PyInstaller Manual](https://pyinstaller.org/en/stable/)
 
