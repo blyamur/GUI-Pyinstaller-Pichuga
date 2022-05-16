@@ -9,17 +9,7 @@ from tkinter import messagebox
 import webbrowser
 import requests
 
-
-__author__ = "Mons (https://blog.mons.ws)"
-__copyright__ = "Copyright 2021"
-__credits__ = ["Code: Mons (https://github.com/blyamur/)", "TTK тема russian-spring основана на теме rdbende (https://github.com/rdbende/Sun-Valley-ttk-theme)"]
-__license__ = "non-commercial use only, for personal use"
-__version__ = '1.2'
-__maintainer__ = "Mons"
-__email__ = "mons@mons.ws"
-__status__ = "Production"
-
-#FromRussiaWithLove
+#FromRussiaWithLove | Mons (https://blog.mons.ws) | ver. 1.2 | "non-commercial use only, for personal use
 
 class App(ttk.Frame):
 	def __init__(self, parent):
