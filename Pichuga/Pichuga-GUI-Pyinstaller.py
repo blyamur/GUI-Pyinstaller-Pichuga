@@ -19,7 +19,7 @@ __maintainer__ = "Mons"
 __email__ = "mons@mons.ws"
 __status__ = "Production"
 
-
+#FromRussiaWithLove
 
 class App(ttk.Frame):
 	def __init__(self, parent):
@@ -50,7 +50,7 @@ class App(ttk.Frame):
 		)
 		self.label.grid(row=0, column=0,padx=0, pady=(20, 0), columnspan=10)
 #2 Option box
-		self.ab_frame = ttk.LabelFrame(self, text="Options", padding=(10, 10))
+		self.ab_frame = ttk.LabelFrame(self, text="Параметры", padding=(10, 10))
 		self.ab_frame.grid(
 			row=0, column=0, padx=(20, 20), pady=(45, 20), sticky="ns"
 		)
@@ -128,7 +128,7 @@ class App(ttk.Frame):
 		self.label.grid(row=5, column=0, padx=5, pady=10, columnspan=1, sticky="w")
 
 		self.accentbutton = ttk.Button(
-			self.ab_frame, text="Select", style="Accent.TButton", command=lambda: get_directory_string('script')
+			self.ab_frame, text="Выбрать", style="Accent.TButton", command=lambda: get_directory_string('script')
 		)
 		self.accentbutton.grid(row=5, column=1, padx=5, pady=10, sticky="w")
 
@@ -146,7 +146,7 @@ class App(ttk.Frame):
 		self.check_6.grid(row=6, column=0, padx=5, pady=10, sticky="w")
 
 		self.accentbutton = ttk.Button(
-			self.ab_frame, text="Select", style="Accent.TButton", command=lambda: get_directory_string('icon')
+			self.ab_frame, text="Выбрать", style="Accent.TButton", command=lambda: get_directory_string('icon')
 		)
 		self.accentbutton.grid(row=6, column=1, padx=5, pady=10, sticky="w")
 
@@ -164,7 +164,7 @@ class App(ttk.Frame):
 		self.check_7.grid(row=7, column=0, padx=5, pady=10, sticky="w")
 
 		self.accentbutton = ttk.Button(
-			self.ab_frame, text="Select", style="Accent.TButton", command=lambda: get_directory_string('version')
+			self.ab_frame, text="Выбрать", style="Accent.TButton", command=lambda: get_directory_string('version')
 		)
 		self.accentbutton.grid(row=7, column=1, padx=5, pady=10, sticky="w")
 
@@ -176,7 +176,7 @@ class App(ttk.Frame):
 
 
 #3 Command line box
-		self.ab_frame = ttk.LabelFrame(self, text="Command", padding=(20, 10))
+		self.ab_frame = ttk.LabelFrame(self, text="Команда", padding=(20, 10))
 		self.ab_frame.grid(
 			row=1, column=0, padx=(5, 5), sticky="n"
 		)
@@ -188,11 +188,11 @@ class App(ttk.Frame):
 		self.bb_frame.grid(row=2, column=0, padx=(10, 10), pady=0, columnspan=10 , sticky="n")
 
 		self.accentbutton = ttk.Button(
-			self.bb_frame, text="Build", style="Accent.TButton",command=lambda:run_build()
+			self.bb_frame, text="Начать", style="Accent.TButton",command=lambda:run_build()
 		)
 		self.accentbutton.grid(row=0, column=0, columnspan=2, ipady=5, ipadx=29, padx=5, pady=10, sticky="nsew")
 
-		self.button = ttk.Button(self.bb_frame, text="Cancel",command=lambda:quit())
+		self.button = ttk.Button(self.bb_frame, text="Отмена",command=lambda:quit())
 		self.button.grid(row=0, column=2, padx=10, pady=15, ipadx=12, sticky="nsew")
 
 #5 Copy docs check vers buttons
@@ -357,12 +357,12 @@ if __name__ == "__main__":
 	w = w - 200
 	h = h - 200
 	currentVersion = '1.2'
-	root.geometry('620x670+{}+{}'.format(w, h)) #размеры окна
+	root.geometry('620x670+{}+{}'.format(w, h)) # размеры окна
 	root.resizable(False, False)
-	root.title("GUI for PyInstaller") # заголовок окна приложения
+	root.title("GUI для PyInstaller") # заголовок окна приложения
 	root.iconbitmap('icon.ico') # иконка окна приложения
-	root.tk.call("source", "russian-spring.tcl") #установка темы оформления
-	root.tk.call("set_theme", "light") #стиль темы оформления
+	root.tk.call("source", "russian-spring.tcl") # установка темы оформления
+	root.tk.call("set_theme", "light") # стиль темы оформления
 	app = App(root)
 	app.pack(fill="both", expand=True)
 	root.update()
