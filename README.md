@@ -72,7 +72,7 @@
 ### Page in English [translate.google.com](https://github-com.translate.goog/blyamur/GUI-Pyinstaller-Pichuga?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)
 
 
-### Без этого, данного проекта бы не было: | Without this, this project would not exist:
+### Ссылки: | Links:
 
 [PyInstaller Manual](https://pyinstaller.org/en/stable/)
 
