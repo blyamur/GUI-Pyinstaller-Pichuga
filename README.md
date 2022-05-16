@@ -71,10 +71,26 @@
 
 ### Page in English [translate.google.com](https://github-com.translate.goog/blyamur/GUI-Pyinstaller-Pichuga?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)
 
+Команда для установка необходимых компонентов
+
+    pip install -r requirements.txt
+
+или
+
+    pip install pyinstaller 
+
+Команда на сборку exe файла без использования GUI: 
+
+    pyinstaller yourscript.py --noconsole --onefile --icon=icon.ico
+
+
+
 
 ### Ссылки: | Links:
 
 [PyInstaller Manual](https://pyinstaller.org/en/stable/)
+
+[PyInstaller on GitHub](https://github.com/pyinstaller/pyinstaller) (latest version)
 
 [Python script: PyInstallerGUI](https://github.com/vsantiago113/PyInstallerGUI) - [vsantiago113](https://github.com/vsantiago113/)
 
