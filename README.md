@@ -1,8 +1,5 @@
 # GUI for Pyinstaller based on Tkinker
-GUI for Pyinstaller based on Tkinker
-
-
-
+## Version 1.3 (current)
 
 
 ## Что это?
@@ -22,7 +19,7 @@ GUI for Pyinstaller based on Tkinker
 [Spring-Noon](https://github.com/blyamur/Spring-Noon-ttk-theme), попробовал дать этой реализации второе дыхание. Главной задачей стояло создать удобный и простой инструмент, который позволит в пару кликов создавать приложения, используя возможности PyInstaller и обладая при этом, самым минимум необходимых навыков, используя инструмент который прост, понятен и выглядит узнаваемо и современно.
 
 
-## Version 1.3 (current)
+
 
 [Python script: PyInstallerGUI](https://github.com/vsantiago113/PyInstallerGUI) - [vsantiago113](https://github.com/vsantiago113/)
 
