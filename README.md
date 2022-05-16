@@ -42,6 +42,8 @@
 
 ### Без этого, данного проекта бы не было:
 
+[PyInstaller Manual](https://pyinstaller.org/en/stable/)
+
 [Python script: PyInstallerGUI](https://github.com/vsantiago113/PyInstallerGUI) - [vsantiago113](https://github.com/vsantiago113/)
 
 [Tkinker theme: Sun-Valley](https://github.com/rdbende/Sun-Valley-ttk-theme) - [rdbende](https://github.com/rdbende/)
