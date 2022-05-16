@@ -84,7 +84,7 @@
     pyinstaller yourscript.py --noconsole --onefile --icon=icon.ico
 
 
-
+![Light](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/action_pichuga.gif)
 
 ### Ссылки: | Links:
 
