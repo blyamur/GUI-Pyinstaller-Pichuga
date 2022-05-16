@@ -1,5 +1,0 @@
-pyinstaller
-os
-tkinter
-webbrowser
-requests
