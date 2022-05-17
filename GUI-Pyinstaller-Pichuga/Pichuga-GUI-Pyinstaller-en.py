@@ -339,7 +339,7 @@ def updateApp(version):
 	update = messagebox.askyesno(title='Update found', message=f'A new version {version} is available. Update?')
 	if update:
 		webbrowser.open_new_tab('https://github.com/blyamur/GUI-Pyinstaller-Pichuga/')
-        
+os.system('cls||clear') #Clear the console        
 if __name__ == "__main__":
 	root = tk.Tk()
 	w = root.winfo_screenwidth()
