@@ -87,9 +87,9 @@
 
     pyinstaller yourscript.py --noconsole --onefile --icon=icon.ico
 
-Графический интерфейс PyInstaller был протестирован только в Windows с использованием версий Python 3.10.2
+****Графический интерфейс PyInstaller был протестирован только в Windows с использованием версии Python 3.10.2****
 
-> The PyInstaller GUI has only been tested on Windows using Python 3.10.2 versions
+> ****The PyInstaller GUI has only been tested on Windows using Python version 3.10.2****
 
 ![Light](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/action_pichuga.gif)
 
