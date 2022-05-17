@@ -67,7 +67,11 @@
 
 После распаковки содержимого архива в любую удобную вам папку, для начала достаточно запустить файл *Pichuga-GUI-Pyinstaller.py*, затем в открывшемся окне установить необходимые вам опции и выбрать файл скрипта, который необходимо сделать исполняемым файлом, при необходимости можно задать имя и указать путь до иконки. Далее просто жмем на конку "Начать" и ждем окончания процесса, за ходом которого, можно наблюдать в окне консоли. Готовый результат будет располагаться в папке **dist**
 
+****Внимание: Все сторонние изображения, стили, иконки и прочие дополнительные компоненты вашего приложения, после создания файла в формате .exe, обязательно необходимо скопировать из оригинальной директории, в ту директорию где у вас расположен новый файл .exe****
+
 > After unpacking the contents of the archive into any folder convenient for you, first you just need to run the Pichuga-GUI-Pyinstaller.py file, then in the window that opens, set the options you need and select the script file that you want to make an executable file, if necessary, you can specify a name and specify the path to the icon. Next, just click on the "Build" button and wait for the end of the process, the progress of which can be observed in the console window. The finished result will be located in the **dist** folder
+> 
+> ****Attention: All third-party images, styles, icons and other additional components of your application, after creating a file in the .exe format, must be copied from the original directory to the directory where you have the new .exe file****
 
 ### Page in English [translate.google.com](https://github-com.translate.goog/blyamur/GUI-Pyinstaller-Pichuga?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)
 
