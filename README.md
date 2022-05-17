@@ -111,3 +111,7 @@ Not for commercial use.
 
   
 © 2022 From Russia with ❤ 
+
+
+
+<img src="https://raw.githubusercontent.com/blyamur/GUI-Pyinstaller-Pichuga/main/shields/python-3.svg" width="100"> <img src="https://raw.githubusercontent.com/blyamur/GUI-Pyinstaller-Pichuga/main/shields/release-date.svg" width="170">
