@@ -81,7 +81,7 @@ class App(ttk.Frame):
 
 #set onedir - checkbox ()
 		self.var_onedir = tk.StringVar()
-		self.var_onedir.set('')
+		self.var_onedir.set(' --onedir')
 		self.check_3 = ttk.Checkbutton(
 			self.ab_frame, text="--onedir", variable=self.var_onedir, onvalue=' --onedir', offvalue='', command=lambda: build_command('')
 		)
@@ -103,7 +103,7 @@ class App(ttk.Frame):
 		self.var_clean = tk.StringVar()
 		self.var_clean.set(' --clean')
 		self.check_5 = ttk.Checkbutton(
-			self.ab_frame, text="--clean  ", variable=self.var_clean, onvalue=' --clean', offvalue='', command=lambda: build_command('')
+			self.ab_frame, text="--clean ", variable=self.var_clean, onvalue=' --clean', offvalue='', command=lambda: build_command('')
 		)
 		self.check_5.grid(row=4, column=4, padx=5, pady=10, sticky="ne")
 
