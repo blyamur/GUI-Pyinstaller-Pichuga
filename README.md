@@ -87,9 +87,17 @@
 
     pyinstaller yourscript.py --noconsole --onefile --icon=icon.ico
 
-****Графический интерфейс PyInstaller был протестирован только в Windows с использованием версии Python 3.10.2****
 
-> ****The PyInstaller GUI has only been tested on Windows using Python version 3.10.2****
+---
+***Графический интерфейс PyInstaller был протестирован только в Windows с использованием версии Python 3.10.2***
+
+***Возможны перебои, баги и прочие вещи. По возможности это все исправляется. Но в целом работает...***
+
+> ***The PyInstaller GUI has only been tested on Windows using Python version 3.10.2***
+> 
+> ***Interruptions, bugs and other things are possible. If possible, this will be corrected. But in general it works...****
+
+
 
 ![Light](https://github.com/blyamur/GUI-Pyinstaller-Pichuga/blob/main/action_pichuga.gif)
 
@@ -118,7 +126,6 @@ Not for commercial use.
 
   
 © 2022 From Russia with ❤ 
-
 
 
 <img src="https://raw.githubusercontent.com/blyamur/GUI-Pyinstaller-Pichuga/main/shields/python-3.svg" width="100"> <img src="https://raw.githubusercontent.com/blyamur/GUI-Pyinstaller-Pichuga/main/shields/release-date.svg" width="170">
