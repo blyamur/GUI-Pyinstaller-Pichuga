@@ -95,7 +95,7 @@
 
 > ***The PyInstaller GUI has only been tested on Windows using Python version 3.10.2***
 > 
-> ***Interruptions, bugs and other things are possible. If possible, this will be corrected. But in general it works...****
+> ***Interruptions, bugs and other things are possible. If possible, this will be corrected. But in general it works...***
 
 
 
