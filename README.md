@@ -20,7 +20,7 @@
 
 2. Установите необходимые компоненты и зависимости если такая необходимость имеется;
 
-3. Запустите *Pichuga-GUI-Pyinstaller.py* и выбрав в окне нужные вам опции, создайте свою программу.
+3. Запустите *Pichuga-GUI-Pyinstaller.py* и указав нужные вам опции, создайте свою программу.
 
 ---
 > 1. Download the archive with the latest version and extract it to any place convenient for you;
