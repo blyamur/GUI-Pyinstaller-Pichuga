@@ -9,7 +9,7 @@ from tkinter import messagebox
 import webbrowser
 import requests
 
-#FromRussiaWithLove | Mons (https://blog.mons.ws) | ver. 1.2 | "non-commercial use only, for personal use
+#FromRussiaWithLove | Mons (https://github.com/blyamur/GUI-Pyinstaller-Pichuga) | ver. 1.2 | "non-commercial use only, for personal use
 
 
 class App(ttk.Frame):
