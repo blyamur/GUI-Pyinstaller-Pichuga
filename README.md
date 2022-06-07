@@ -36,7 +36,7 @@
 
 *  **Pichuga-GUI-Pyinstaller-en.py** - версия на английском языке
 
-*  **theme** - Папка с темой оформления (стили, иконки и пр.)
+*  **theme** - Папка с темой оформления (стили, иконка, изображения и пр.)
 
 *  **russian-spring.tcl** - Файл темы оформления
 
@@ -54,7 +54,7 @@
 > 
 > *  **Pichuga-GUI-Pyinstaller-en.py** - English version 
 > 
-> *  **theme** - folder with the theme (styles, icons, etc.)
+> *  **theme** - folder with the theme (styles, icons, images, etc.)
 > 
 > *  **russian-spring.tcl** - Theme File
 > 
